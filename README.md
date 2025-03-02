@@ -1,5 +1,6 @@
 # Zing
-<img width="1470" alt="demo" src="https://github.com/user-attachments/assets/15eefc0e-11cc-4861-bdd9-ec972458bbe8" />
+<img width="803" alt="zing chat demo" src="https://github.com/user-attachments/assets/8c5dae1a-64bc-4e8b-8d20-696a43cc55b8" />
+
 
 Some Features:
 
